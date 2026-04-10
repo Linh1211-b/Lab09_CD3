@@ -1,0 +1,6 @@
+ReviewID,UserName,Rating,Comment,ProductCategory,ReviewDate
+R001,nguyenvana,5,"Sản phẩm tốt   !!",Điện thoại,2025-03-01
+R002,tranb,3,Cái này bình thường...,Laptop,2025-03-05
+R003,lethiC,6,Quá tệ!!!!!,tai nghe,2025-03-10
+R004,nguyenvana,4,   Tốt   ,Điện Thoại,2025-03-15
+R005,phamD,1,"Không hài lòng",laptop,2025-03-20

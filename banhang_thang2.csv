@@ -1,0 +1,4 @@
+OrderID,CustomerID,OrderDate,Product,Quantity,Price
+DH002,KH02,15/02/2025,Chuột,2,300000
+DH004,KH04,2025-02-20,Bàn phím,1,1200000
+DH001,KH01,2025-02-25,Laptop,1,15000000
